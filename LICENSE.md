@@ -1,0 +1,9 @@
+Copyright © 2023 ORE Policy Contributors (the "Contributors")
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the policy documents and associated files (the "Policies"), to deal in the Policies without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Policies, and to permit persons to whom the Policies are furnished to do so, subject to the following conditions:
+
+THE POLICIES ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE POLICIES OR THE USE OR OTHER DEALINGS IN THE POLICIES.
+
+Contributors to the Policies do not represent themselves as legal counsel. Contribution to the Policies or any action related to the Policies which may be seen as preparation of legal documents or text shall be in no way construed as a contract or agreement for providing any manner of legal services, nor shall it be construed as engendering any form of responsibility or duty on the part of the Contributors with regards to ensuring the legality and/or efficacy of prepared documents or texts.
+
+Contributors take no responsibility for any legal action, expense, damages, or liability of any kind arising from, out of or in connection with the Policies or the use or other dealings in the Policies.
