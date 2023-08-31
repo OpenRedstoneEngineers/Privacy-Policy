@@ -1,12 +1,12 @@
 # Minecraft Server Privacy Policy
 
-Last updated August 28th 2023.
+Last updated August 31st, 2023.
 
 **This policy is only for the Minecraft game server**. Any other services associated with the ORE community such as the main website at https://openredstone.org/ and the forum at https://discourse.openredstone.org/ have their own privacy policies. If you use those services, you should read their respective privacy policies.
 
 ORE is an informal volunteer-run community focused on the video game Minecraft.
 
-The "**server**", "**game server**", "**minecraft server**", or sometimes "**ORE**" is a Minecraft server which can be connected to with Minecraft using the address `mc.openredstone.org`, associated with the ORE community.
+The "**server**", "**game server**", "**minecraft server**", or sometimes "**ORE**" is a Minecraft server associated with the ORE community which can be connected to with Minecraft using the address `mc.openredstone.org`.
 
 This privacy policy will explain how ORE uses the personal data we collect from you when you use our server.
 
@@ -41,7 +41,7 @@ ORE collects the following data:
 
 ## How do we collect your data?
 
-You directly provide ORE with all of the data we collect. We collect data and process data when you connect to our server and when you perform any actions in the game.
+You directly provide ORE with all of the data we collect. We collect and process your data when you connect to our server and when you perform any actions in the game.
 
 ## How will we use your data?
 
@@ -61,7 +61,7 @@ Some in-game actions may result in some of your data, including, but not limited
 
 - We maintain a status indicator in a Discord chat which lists the Minecraft usernames of all players currently connected to the server.
 - We mirror the contents of in-game chat messages to a Discord chat in order to allow in-game users to chat with people on the Discord platform.
-- We deliver notifications about some in-game actions to our staff team via a Discord chat for server moderation and administration purposes. These notifications may include any of the data we collect, and is intended to be accessible only to the staff team.
+- We deliver notifications about some in-game actions to our staff team via a Discord chat for server moderation and administration purposes. These notifications may include any of the data we collect, and are intended to be accessible only to the staff team.
 
 Any data which we share with Discord is subject to Discord's [privacy policy](https://discord.com/privacy).
 

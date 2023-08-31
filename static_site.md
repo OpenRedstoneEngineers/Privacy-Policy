@@ -1,6 +1,6 @@
 # Static Site Privacy Policy
 
-Last updated August 28th 2023.
+Last updated August 31st, 2023.
 
 **This policy only applies to *some* ORE websites**;
 - The main website (https://openredstone.org/)
@@ -35,7 +35,7 @@ Whenever you visit your websites we store info about the requests made by your b
 - Your IP address
 - What content was accessed
 - The time and date of the request
-- And in some cases, the website which you followed a link from to reach our websites.
+- In some cases, the website which you followed a link from to reach our websites.
 
 ### Google Analytics
 
